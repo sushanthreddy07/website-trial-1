@@ -1,0 +1,25 @@
+---
+title: "Education"
+format: html
+editor: visual
+---
+
+## EDUCATION
+
+### George Mason University, Fairfax, USA
+
+Master of Science, Data Analytics Engineering (Jan 2024- present)
+
+**Course**: Data analytics engineering
+
+### **Amity University , Gurugram, India**
+
+Master of Technology, Network and Cyber Security (Aug 2021- July 2023)
+
+**Courses**: Advance Computer Networks, Advance Database Management Systems, Network and Wireless Security, Intrusion Detection and Prevention system, cryptography, Cyber-crime Investigation and Forensics, Biometric Systems, Malware Analysis, Digital Watermarking and Steganography
+
+### **Jawaharlal Nehru Technological University, Hyderabad, India**
+
+Bachelor of Technology, Computer Science Engineering (Sep 2015- Jun 2019)
+
+**Courses**: Data Management Systems, Computer Networks, Web Technologies, Information Security, Artificial Intelligence, Data Base Security, Web Services

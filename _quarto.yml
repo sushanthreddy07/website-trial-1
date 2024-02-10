@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "PORTFOLIO"
+
+  navbar:
+    left:
+  
+      - text: "Introduction"
+        href:  Introduction.html
+      - text: "Education"
+        href: Education.html
+
+
+output-dir: docs 
+theme: sandstone
